@@ -1,0 +1,9 @@
+{
+  "name": "gemini-proxy-function",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "@netlify/functions": "^2.0.0"
+  }
+}

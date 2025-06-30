@@ -1,0 +1,23 @@
+
+{
+  "short_name": "NaijaScholar",
+  "name": "NaijaScholar AI",
+  "description": "An AI-powered web application to help Nigerian secondary students prepare for WASSCE & NECO exams with a personalized tutor, exam prep features, and progress tracking.",
+  "icons": [
+    {
+      "src": "/public/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/public/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0FDF4",
+  "theme_color": "#00A859",
+  "scope": "/"
+}
